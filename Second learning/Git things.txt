@@ -1,0 +1,6 @@
+There is:
+
+1) Push
+2) Pull
+3) Merge
+4) fetch
