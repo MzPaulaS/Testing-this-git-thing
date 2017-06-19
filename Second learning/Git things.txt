@@ -4,3 +4,4 @@ There is:
 2) Pull
 3) Merge
 4) fetch
+5) Branch
